@@ -1,5 +1,5 @@
 {
-  "name": "js-calculator-ts",
+  "name": "developer-survey-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.1.4",
-    "prompt-sync": "^4.2.0"
-  },
-  "type": "module"
+    "inquirer": "^9.1.4"
+  }
 }
